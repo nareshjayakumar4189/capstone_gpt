@@ -1,3 +1,5 @@
 Flask==2.3.2
 torch
 clip
+PIL 
+google-generativeai
